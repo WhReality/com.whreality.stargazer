@@ -1,0 +1,14 @@
+﻿{
+  "FilenameLabel": "Filename",
+  "IncludeSeedLabel": "Include seed",
+  "IncludeFaceSizeLabel": "Include face size",
+  "SaveJsonLabel": "Save JSON",
+  "AssetTypeLabel": "Type",
+  "PathLabel": "Path",
+  "AutoUpdatePreviewCheckbox": "Auto update preview",
+  "PreviewLabel": "Preview",
+  "SaveAssetLabel": "Save Asset",
+  "RefreshPreviewLabel": "Refresh Preview (F5)",
+  "FaceSizeLabel": "Face Size",
+  "RandomColorsCheckbox": "Random colors"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "com.whreality.stargazer",
+  "displayName": "Stargazer",
+  "version": "1.0.0-preview",
+  "description": "Space skybox generator",
+  "author": {
+    "name": "Heikki Hyttinen",
+    "url": "https://www.whreality.com/"
+  },
+  "keywords": [
+    "space",
+    "skybox",
+    "cubemap",
+    "editor"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.whreality.com/assets/stargazer",
+  "bugs": {
+    "url": "https://github.com/WhReality/com.WhReality.foundation/issues",
+    "email" : "support@WhReality.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:WhReality/com.WhReality.foundation.git"
+  }
+}
