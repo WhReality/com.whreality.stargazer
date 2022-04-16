@@ -4,7 +4,7 @@
   "version": "1.0.0-preview",
   "description": "Space skybox generator",
   "author": {
-    "name": "Heikki Hyttinen",
+    "name": "Wormhole Reality",
     "url": "https://www.whreality.com/"
   },
   "keywords": [
@@ -16,11 +16,11 @@
   "license": "MIT",
   "homepage": "https://www.whreality.com/assets/stargazer",
   "bugs": {
-    "url": "https://github.com/WhReality/com.WhReality.foundation/issues",
-    "email" : "support@WhReality.com"
+    "url": "https://github.com/WhReality/com.whreality.stargazer/issues",
+    "email" : "support@whreality.com"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:WhReality/com.WhReality.foundation.git"
+    "url": "ssh://git@github.com:WhReality/com.whreality.stargazer.git"
   }
 }
